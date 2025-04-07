@@ -1,0 +1,7 @@
+pyriemann
+numpy==1.26.4
+scikit-learn
+mne
+matplotlib
+jupyterlab
+pyqt5
